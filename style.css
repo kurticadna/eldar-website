@@ -5,4 +5,29 @@ body {
     background-color: #f4f4f4;
 
 
+    .hero {
+        width: 70%;
+        max-width: 800px;
+        margin: auto !important;
+        padding-top: 60px;
+
+        .hero__title {
+            font-size: 2rem;
+            margin-bottom: 10px;
+        }
+        .hero__svg {
+            max-width: 25px;
+            max-height: 25px;
+            margin-right: 10px;
+
+        }
+}
+
+.yt {
+
+    .yt__video {
+       max-width: 300px;
+       max-height: 250px;
+    }
+
 }
